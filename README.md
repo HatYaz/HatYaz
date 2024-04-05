@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HatYaz
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently using a lot of Python
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: hatem.yazidi@gmail.com
 
