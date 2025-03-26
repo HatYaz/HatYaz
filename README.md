@@ -1,3 +1,4 @@
+Frensh version will follow: 
 With a diverse background spanning physics, atmospheric sciences, and bioenergy, I bring a unique blend of self-discipline, motivation, and a steadfast commitment to innovation. Harnessing state-of-the-art tools such as machine learning, deep learning algorithms, and data mining, I deliver efficient solutions that drive optimization and cost savings for clients.
 
 With nearly two decades of global experience in scientific pursuits, including projects in renewable energy and water treatment across Canada, the Middle East, and North Africa, I possess expertise in communication, project management, and collaborative teamwork. From atmospheric and ocean modeling to biogas technologies and waste-to-energy solutions, my skills are multifaceted and internationally recognized.
@@ -5,3 +6,11 @@ With nearly two decades of global experience in scientific pursuits, including p
 Beyond technical proficiency, I excel as a team player, adept at nurturing strong interpersonal connections and fostering a positive work environment. Driven by goals and resilient under pressure, I consistently deliver high-quality results within deadlines. As a team counselor, I prioritize camaraderie and support to ensure every member feels valued and empowered.
 
 Motivated by a commitment to excellence, I take ownership of my work, consistently surpassing expectations. With a diverse skill set, bolstered by strong communication and teamwork abilities, I am poised to make a significant impact in any organization.
+-------------------------------------------------
+Avec un parcours diversifié englobant la physique, les sciences de l'atmosphère et la bioénergie, j'apporte un mélange unique de discipline, de motivation et d'un engagement inébranlable envers l'innovation. Grâce à l'utilisation d'outils de pointe tels que l’apprentissage automatique, les algorithmes de deep learning et le data mining, je développe des solutions efficaces favorisant l'optimisation et la réduction des coûts pour les clients.  
+
+Fort de près de deux décennies d'expérience internationale dans le domaine scientifique, incluant des projets en énergies renouvelables et en traitement de l’eau au Canada, au Moyen-Orient et en Afrique du Nord, je possède une expertise en communication, en gestion de projet et en travail collaboratif. De la modélisation atmosphérique et océanique aux technologies du biogaz et aux solutions de valorisation des déchets en énergie, mes compétences sont variées et reconnues à l’échelle internationale.  
+
+Au-delà de ma maîtrise technique, j’excelle en tant que collaborateur, capable de tisser des relations interpersonnelles solides et de favoriser un environnement de travail positif. Orienté vers l’atteinte des objectifs et résistant à la pression, je fournis constamment des résultats de haute qualité dans les délais impartis. En tant que conseiller d'équipe, je mets un point d'honneur à encourager la cohésion et le soutien, garantissant que chaque membre se sente valorisé et motivé.  
+
+Animé par une quête d'excellence, je prends pleinement responsabilité de mon travail, dépassant continuellement les attentes. Grâce à un ensemble de compétences diversifié, renforcé par de solides aptitudes en communication et en travail d’équipe, je suis prêt à apporter une contribution significative à toute organisation.
